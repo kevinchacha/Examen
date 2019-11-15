@@ -1,0 +1,25 @@
+{
+  "name": "examen-1",
+  "version": "1.1.1",
+  "description": "examen",
+  "main": "app.js",
+  "dependencies": {
+    "csv-parser": "^2.3.2",
+    "yards": "^0.1.4",
+    "yargs": "^14.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kevinchacha/Examen.git"
+  },
+  "author": "kevin chacha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinchacha/Examen/issues"
+  },
+  "homepage": "https://github.com/kevinchacha/Examen#readme"
+}
